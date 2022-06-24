@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-scenarios">Scenarios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <br>
