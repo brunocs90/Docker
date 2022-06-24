@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="layout" src="./images/layout.jpg" width="0%">
+  <img alt="layout" src="./images/layout.jpg" width="80%">
 </p>
 
 <br>
