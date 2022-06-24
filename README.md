@@ -69,6 +69,7 @@ http://localhost:5000/
 Change replicas: 5
 docker stack deploy -c .\docker-compose.yml counter
 docker stack rm counter
+```
 
 ## :memo: License
 
