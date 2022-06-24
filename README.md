@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="layout" src="./images/layout.jpg" width="80%">
+  <img alt="layout" src="./images/layout.jpg" width="0%">
 </p>
 
 <br>
@@ -43,7 +43,7 @@ docker container rm web
 
 NEEDS UPDATING
 This folder contains the files to build a multi-container web app with Compose.
-- Pthon flask app with redis cache.
+- Python flask app with redis cache.
 
 ```bash
 docker-compose up -d
