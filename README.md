@@ -5,13 +5,13 @@
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-scenarios">Scenarios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-license">License</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="layout" src="./images/layout.jpg" width="50%">
+  <img alt="layout" src="./images/layout.jpg" width="80%">
 </p>
 
 <br>
@@ -70,8 +70,7 @@ Change replicas: 5
 docker stack deploy -c .\docker-compose.yml counter
 docker stack rm counter
 ```
-
-## :memo: License
+## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
