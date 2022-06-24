@@ -55,7 +55,7 @@ docker-compose down
 ### 3. swarm-stack
 
 This folder contains the files to build a multi-container web app with Swarm Stacks.
-- Python flask app with redis cache that also returns hostname of container servicing request.
+- Python flask app with redis cache that also returns hostname of container service request.
 
 ```bash
 docker image build -t brunocs90/gsd:swarm-stack .
